@@ -1,5 +1,5 @@
 # Android-Services-Samples
-This project is created for my article about android services. This contains some examples which in the article. There are 4 different services.
+This project is created for my article about android services. This contains some examples which in the article. There are 4 different services. Sorry for design the page :).
 
 * Service
 * Intent Service
