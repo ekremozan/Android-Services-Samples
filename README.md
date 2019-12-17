@@ -8,4 +8,4 @@ This project is created for my article about android services. This contains som
 
 ![alt text](https://github.com/ekremozan/Android-Services-Samples/blob/master/Screenshot_1576621364.png)
 
-You can download and try this services. Also you can see the logs about lifecycle of services on logcat.
+Download the project and you can start and stop any service at any time. Also you can see the logs about life cycle of services on logcat.
